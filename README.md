@@ -77,7 +77,7 @@ I enjoy optimizing small parts of large systems and diving into codebases I didn
 
 ## 🤝 Let’s Connect!
 📫 **Email:** yisakor.melke@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/yisakor](https://linkedin.com/in/yisakor) *(replace with your actual link)*  
+💼 **LinkedIn:** [linkedin.com/in/yisakor](https://www.linkedin.com/in/yisakor-melke-8117b4250/)
 📁 **Portfolio:** _Coming soon!_
 
 ---
