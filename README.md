@@ -38,14 +38,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 💼 Experience
-
-### 🧪 Ascent UP Intern – Developer @ Certified Cell _(Remote, Summer 2024)_
-- Integrated **Stripe-based subscription login system**
-- Built **dynamic data visualizations** using the **Airtable API + Chart.js**
-- Developed responsive landing pages to improve engagement and UX
 
 ---
 
