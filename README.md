@@ -78,8 +78,7 @@ I enjoy optimizing small parts of large systems and diving into codebases I didn
 ## 🤝 Let’s Connect!
 📫 **Email:** yisakor.melke@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/yisakor](https://www.linkedin.com/in/yisakor-melke-8117b4250/)
-📁 **Portfolio:** _Coming soon!_
 
 ---
 
-_“You don’t need a lucky break if you’re too good to ignore.”_
+_“The best way to predict the future is to invent it. - Alan Kay”_
