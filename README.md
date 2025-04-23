@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yisakor Melke
 
-🎓 **Computer Science Junior** at Indiana University Bloomington  
+🎓 **Computer Science Student** at Luddy School of Informatics, Computing, and Engineering
 💻 Passionate about full-stack development, system design, and building products that solve real-world problems  
 🚀 Aspiring Software Engineer | Developer | Builder
 
@@ -31,8 +31,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Tools:**  
-`Git` `GitHub` `Command Line` `IDEs` `Debugging Tools`
+**Tools/Technologies:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
