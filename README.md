@@ -63,7 +63,7 @@ Java-based inventory management system with user registration and data visualiza
 ---
 
 ## 🧠 Fun Fact
-I enjoy optimizing small parts of large systems and diving into codebases I didn’t write. I believe the best engineers are the best communicators.
+I enjoy diving into codebases I didn’t write. I believe the best engineers are also the best reverse engineers.
 
 ---
 
