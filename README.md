@@ -45,7 +45,7 @@
 
 ### 🌍 [Airbnb Clone](https://github.com/Yuskur/airbnb-clone)
 A full-stack mobile application enabling users to browse, book, and manage rental listings.  
-**Tech:** `Node.js`, `Firebase`, `GitHub`
+**Tech:**  `React.js`, `Node.js`, `Firebase`, `GitHub`
 
 ### 🌐 [Google Cloud AI in action hackathon](https://github.com/Yuskur/MongoDB-AI_in_action)
 Interactive navigation search application through natural language of a college student mental health dataset
