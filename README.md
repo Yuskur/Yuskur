@@ -43,14 +43,14 @@
 
 ## 🚀 Projects
 
-### 🌍 [Airbnb Clone](https://github.com/YOUR_USERNAME/airbnb-clone)
+### 🌍 [Airbnb Clone](https://github.com/Yuskur/airbnb-clone)
 A full-stack mobile application enabling users to browse, book, and manage rental listings.  
 **Tech:** `Node.js`, `Firebase`, `GitHub`
 
-### 🌐 [Mini-HTTP Server](https://github.com/YOUR_USERNAME/mini-http-server)
-Lightweight HTTP/1.1 server in `C` handling GET requests and serving static content.
+### 🌐 [Google Cloud AI in action hackathon](https://github.com/Yuskur/MongoDB-AI_in_action)
+Interactive navigation search application through natural language of a college student mental health dataset
 
-### 📚 [Library Management System](https://github.com/YOUR_USERNAME/library-system)
+### 📚 [Library Management System](https://github.com/Yuskur/library-system)
 Java-based inventory management system with user registration and data visualization.
 
 ---
